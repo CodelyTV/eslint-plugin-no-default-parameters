@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "ES2019",
     "module": "node16",
-    "moduleResolution": "bundler",
+    "moduleResolution": "node16",
     "strict": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
