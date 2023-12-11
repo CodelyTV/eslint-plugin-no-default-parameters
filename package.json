@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-default-parameters",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A plugin that forbids the use of default parameters in functions, methods and constructors.",
   "main": "dist/src/index.js",
   "scripts": {
