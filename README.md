@@ -65,4 +65,4 @@ Opinionated skeletons ready for different purposes:
 
 ## 🙌 Thanks
 
-This package is inspired by a [eslint-plugin-es rule](https://github.com/mysticatea/eslint-plugin-es/blob/v1.4.1/lib/rules/no-default-parameters.js).
+This package is inspired by an [eslint-plugin-es rule](https://github.com/mysticatea/eslint-plugin-es/blob/v1.4.1/lib/rules/no-default-parameters.js).
