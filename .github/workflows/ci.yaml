@@ -9,13 +9,21 @@ jobs:
     timeout-minutes: 15
     steps:
       - name: 👍 Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: ✳️ Node version
+        uses: actions/setup-node@v4
+        with:
+          node-version: 16
 
       - name: 📥 Install Dependencies
         run: npm install
 
       - name: 💅 Lint
         run: npm run lint
+
+      - name: 🧱 Build
+        run: npm run build
 
       - name: ✅ Test
         run: npm run test
