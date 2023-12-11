@@ -62,3 +62,7 @@ Opinionated skeletons ready for different purposes:
 - [🔷🕸️ TypeScript Web Skeleton](https://github.com/CodelyTV/typescript-web-skeleton)
 - [🔷🌍 TypeScript API Skeleton](https://github.com/CodelyTV/typescript-api-skeleton)
 - [🔷✨ TypeScript DDD Skeleton](https://github.com/CodelyTV/typescript-ddd-skeleton)
+
+## 🙌 Thanks
+
+This package is inspired by a [eslint-plugin-es rule](https://github.com/mysticatea/eslint-plugin-es/blob/v1.4.1/lib/rules/no-default-parameters.js).
